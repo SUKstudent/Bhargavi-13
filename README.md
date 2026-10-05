@@ -125,7 +125,7 @@ Analysis and Customer Value Analysis using Power BI, Power Query, and DAX.
 - 💳 Built fintech analytics using PhonePe Pulse data
 - 👥 Worked on customer value and e-commerce analytics using Olist data
 - 💼 Hands-on internship experience in data analytics
-- 
+
 ---
 
 ### What I Like Working On
