@@ -1,6 +1,6 @@
 # Bhargavi
 
-Data Analyst · Turning data into insights, dashboards, and decisions
+**Data Analyst · Turning data into insights, dashboards, and decisions**
 
 [LinkedIn] · [GitHub] · [Email] · [Portfolio]
 
@@ -136,22 +136,6 @@ Analysis and Customer Value Analysis using Power BI, Power Query, and DAX.
 - Exploring business and customer analytics
 - Learning new tools by actually building with them
 
----
-
-### Open To
-
-I'm open to **Data Analytics, Business Analytics, and Data Science
-internships**, as well as opportunities to collaborate on interesting
-data-driven projects.
-
----
-
-### Connect
-
-[LinkedIn](in/bhargavi-sadanand-a6250a3b4)
-[Portfolio](YOUR_PORTFOLIO_URL)  
-[Email](patilabhinavsadanand@gmail.com)
-[GitHub](https://github.com/SUKstudent)
 ---
 
 <p align="center">
