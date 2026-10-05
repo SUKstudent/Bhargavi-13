@@ -1,4 +1,4 @@
-                                                                              # Bhargavi
+# Bhargavi
 
 Data Analyst · Turning data into insights, dashboards, and decisions
 
