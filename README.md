@@ -1,4 +1,4 @@
-# Bhargavi
+                                                                              # Bhargavi
 
 Data Analyst · Turning data into insights, dashboards, and decisions
 
@@ -9,14 +9,14 @@ raw datasets into interactive dashboards and meaningful insights. My recent
 work spans Power BI analytics, customer value analysis, fintech data,
 business analytics, and data-driven applications.
 
-Currently pursuing [Your Degree] and building practical experience through
+Currently pursuing B.E.(B.Tech) and building practical experience through
 internships, personal projects, and continuous experimentation with data.
 
 ---
 
 ### Currently
 
-- Building **CURIO·27·FOLIO**, my personal analytics portfolio
+- Building **CURIO·27**, my personal analytics portfolio
 - Exploring **Data Analytics and Data Science** through hands-on projects
 - Working with **Power BI, Power Query, DAX, Python, and SQL**
 - Strengthening my understanding of data modeling, business analytics, and visualization
